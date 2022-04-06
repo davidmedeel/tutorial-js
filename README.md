@@ -33,25 +33,24 @@ Si aparece algo como *No se reconoce el comando interno o externo* escribís en 
 
 Cuando abramos VSC veremos algo así:
 
-![](https://i.gyazo.com/a15e317bc967ee5752d46540b20784bb.png)
 
 Para descargar extensiones vamos a la parte izquierda y hacemos click en este icono:
 
-![](https://i.gyazo.com/9463158a9e58e0bab6a15170cc4bb5eb.png)
+
 
 Y descargamos las siguientes extensiones:
 
 **Code runner**<br>
 Sirve para ejecutar todo el código del documento actual, o sólo la selección que tengamos.
 
-![](https://i.gyazo.com/a18ab74dd919b1141640648b6ce240ec.png)
+
 
 
 **Bracket pair colorizer**<br>
 Sirve para ver más fácilmente los inicios y finales de cada paréntesis, corchete y llave cuando están tal que así (()) [[]] {{}}.
 Lo veremos cuando avancemos.
 
-![](https://i.gyazo.com/9a5ba46d8b9b1fd88a84da59932125db.png)
+
 
 ¿Cómo? Simplemente escribimos el nombre en la parte superior donde dice "Buscar extensiones en Marketplace"
 y pulsando el botón verde que dice "Install".
@@ -67,10 +66,10 @@ y pulsando el botón verde que dice "Install".
 `console.log("Todo funciona guay")`
 
 4. Hacemos click en el icono con forma de play arriba a la derecha del todo:<br>
-![](https://i.gyazo.com/096a722659dd27171e3b7c83c1787519.png)
+
 
 5. Deberíamos de ver el texto en la parte inferior tal que así:<br>
-![](https://i.gyazo.com/e53d09f52c63981f980ac2ddf77f7080.png)
+
 
 
 Si algo ha salido mal comprueba si tienes Node.js intalado correctamente, reinicia VSC o reinicia el ordenador.<br/><br/>
@@ -80,7 +79,7 @@ Si todavía tienes problemas y Code Runner no lanza el código, vamos a hacer lo
 1. Vamos a Archivo >> Preferencias >> Configuración
 2. En la barra de búsqueda escribimos ``code runner``
 3. Buscamos esta configuración y hacemos click en *Editar en settings.json*<br>
-![](https://i.gyazo.com/3d13122f489f643a8b2441febac28217.png)
+
 4. Copiamos esto:
 
 	````
