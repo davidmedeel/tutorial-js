@@ -33,7 +33,7 @@ Si aparece algo como *No se reconoce el comando interno o externo* escribís en 
 
 Cuando abramos VSC veremos algo así:
 
-![](https://gyazo.com/21eb9e23b782c3adfb07d949f09a2cab)
+![](https://i.gyazo.com/21eb9e23b782c3adfb07d949f09a2cab.png)
 
 Para descargar extensiones vamos a la parte izquierda y hacemos click en este icono:
 
@@ -70,7 +70,7 @@ y pulsando el botón verde que dice "Install".
 ![](https://i.gyazo.com/096a722659dd27171e3b7c83c1787519.png)
 
 5. Deberíamos de ver el texto en la parte inferior tal que así:<br>
-![](https://gyazo.com/8f250dd5df16ff968af9a91b63161b3c)
+![](https://i.gyazo.com/8f250dd5df16ff968af9a91b63161b3c.png)
 
 
 Si algo ha salido mal comprueba si tienes Node.js intalado correctamente, reinicia VSC o reinicia el ordenador.<br/><br/>
