@@ -33,24 +33,25 @@ Si aparece algo como *No se reconoce el comando interno o externo* escribís en 
 
 Cuando abramos VSC veremos algo así:
 
+![](https://gyazo.com/21eb9e23b782c3adfb07d949f09a2cab)
 
 Para descargar extensiones vamos a la parte izquierda y hacemos click en este icono:
 
-
+![](https://i.gyazo.com/9463158a9e58e0bab6a15170cc4bb5eb.png)
 
 Y descargamos las siguientes extensiones:
 
 **Code runner**<br>
 Sirve para ejecutar todo el código del documento actual, o sólo la selección que tengamos.
 
-
+![](https://i.gyazo.com/a18ab74dd919b1141640648b6ce240ec.png)
 
 
 **Bracket pair colorizer**<br>
 Sirve para ver más fácilmente los inicios y finales de cada paréntesis, corchete y llave cuando están tal que así (()) [[]] {{}}.
 Lo veremos cuando avancemos.
 
-
+![](https://i.gyazo.com/9a5ba46d8b9b1fd88a84da59932125db.png)
 
 ¿Cómo? Simplemente escribimos el nombre en la parte superior donde dice "Buscar extensiones en Marketplace"
 y pulsando el botón verde que dice "Install".
@@ -66,10 +67,10 @@ y pulsando el botón verde que dice "Install".
 `console.log("Todo funciona guay")`
 
 4. Hacemos click en el icono con forma de play arriba a la derecha del todo:<br>
-
+![](https://i.gyazo.com/096a722659dd27171e3b7c83c1787519.png)
 
 5. Deberíamos de ver el texto en la parte inferior tal que así:<br>
-
+![](https://gyazo.com/8f250dd5df16ff968af9a91b63161b3c)
 
 
 Si algo ha salido mal comprueba si tienes Node.js intalado correctamente, reinicia VSC o reinicia el ordenador.<br/><br/>
@@ -79,7 +80,7 @@ Si todavía tienes problemas y Code Runner no lanza el código, vamos a hacer lo
 1. Vamos a Archivo >> Preferencias >> Configuración
 2. En la barra de búsqueda escribimos ``code runner``
 3. Buscamos esta configuración y hacemos click en *Editar en settings.json*<br>
-
+![](https://i.gyazo.com/3d13122f489f643a8b2441febac28217.png)
 4. Copiamos esto:
 
 	````
@@ -112,14 +113,14 @@ Primero escribimos lo siguiente:
 	console.log("Adiós");
 	
 Después seleccionamos la primera línea y le damos al play de antes para ejecutar el código, y deberíamos ver lo siguiente:  
-
+![](https://i.gyazo.com/70145933757053d6d5fe8907b5e364a7.png)
 
 Después hacemos lo mismo para ejecutar la segunda línea.
 
 De esta forma podremos ejecutar código selectivamente, lo que nos servirá para seguir el tutorial.
 
 Si no seleccionamos nada y ejecutamos, veremos Hola y Adiós con un solo click:  
-
+![](https://i.gyazo.com/1aff41c05ae5fdeb0d3439b625014b81.png)
 
 Porque hemos ejecutado TODO el código y no una selección.
 
@@ -134,7 +135,7 @@ Es parte del **aprendizaje**, permítete equivocarte y hacer las cosas mal, no p
 Así que... ¡tu aventura empieza en el capítulo 1!
 
 Para empezar descarga [este](https://github.com/davidmedeldev/tutorial-js) repositorio, si no sabes cómo, simplemente busca en la parte superior un botón tal que así:<br>
-
+![](https://i.gyazo.com/31735586fd05bdc0c2415b91be4f5175.png)
 
 Una vez descomprimido abre la carpeta con el capítulo 01 y abre el archivo con extensión .js.
 Tendrás que abrirlo con VSC (Visual Studio Code).
